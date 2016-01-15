@@ -1,22 +1,26 @@
-#destination1, #destination2, #destination3 {
- display: none;
-
+#destination1, #destination2, #destination3, #error {
+  display: none;
 }
+
+p {
+  font-size: 200%;
+}
+
 h2 {
  color: red;
  padding: left;
-
 }
 
-#criterias {
-  color: red;
-}
 
 h3 {
   font-style: italic;
-
 }
 
 .container {
   padding-top: 20px;
+  background-color: orange;
+}
+
+.photo {
+  width: 80%;
 }
