@@ -1,0 +1,22 @@
+#destination1, #destination2, #destination3 {
+ display: none;
+
+}
+h2 {
+ color: red;
+ padding: left;
+
+}
+
+#criterias {
+  color: red;
+}
+
+h3 {
+  font-style: italic;
+
+}
+
+.container {
+  padding-top: 20px;
+}
