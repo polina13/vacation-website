@@ -1,4 +1,5 @@
 #destination1, #destination2, #destination3, #error {
+
   display: none;
 }
 
@@ -21,6 +22,12 @@ h3 {
   background-color: orange;
 }
 
-.photo {
-  width: 80%;
+
+.form {
+  font-size: 50px;
+}
+
+.end {
+  width: 100%;
+  text-align: center;
 }
